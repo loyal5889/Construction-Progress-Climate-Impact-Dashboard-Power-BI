@@ -47,7 +47,8 @@ Este proyecto nace de una necesidad real en obra para mejorar el seguimiento ope
 ---
 
 # Capturas de los Dashboards
-
+![Dashboard Clima](screenshots/dashboard_avance.png)
+![Dashboard Clima](screenshots/dashboard_clima.png)
 ## Dashboard de Avance de Obra
 
 Agregar aquí screenshots del dashboard de avance.
