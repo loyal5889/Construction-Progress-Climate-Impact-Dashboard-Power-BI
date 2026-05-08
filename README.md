@@ -67,7 +67,7 @@ construction-project-monitoring-dashboard/
 
 Este proyecto forma parte de mi portafolio personal como ingeniero civil interesado en:
 
-* Automatización en construcción
+* Automatización en obra civil
 * Business Intelligence aplicado a obra
 * Reporting ejecutivo
 * Gestión de riesgos climáticos
