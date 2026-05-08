@@ -6,7 +6,7 @@ Dashboard desarrollado en Power BI para el monitoreo de avance de obra y anális
 
 El objetivo principal es visualizar el estado general del proyecto mediante indicadores de avance, análisis de retrasos y seguimiento de condiciones climáticas que afectan la ejecución de actividades en obra.
 
-Este proyecto nace de una necesidad real en obra para mejorar el seguimiento operativo y facilitar la toma de decisiones.
+Este proyecto nace de una necesidad real en obra para mejorar el seguimiento operativo y facilitar la toma de decisiones. 
 
 ---
 
