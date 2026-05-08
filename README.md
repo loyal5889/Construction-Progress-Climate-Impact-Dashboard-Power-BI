@@ -1,0 +1,104 @@
+# Construction Progress & Climate Impact Dashboard – Power BI
+
+## Descripción del Proyecto
+
+Dashboard desarrollado en Power BI para el monitoreo de avance de obra y análisis de afectaciones climáticas en proyectos de construcción.
+
+El objetivo principal es visualizar el estado general del proyecto mediante indicadores de avance, análisis de retrasos y seguimiento de condiciones climáticas que afectan la ejecución de actividades en obra.
+
+Este proyecto nace de una necesidad real en obra para mejorar el seguimiento operativo y facilitar la toma de decisiones.
+
+---
+
+# Funcionalidades
+
+## Dashboard de Avance de Obra
+
+* Seguimiento porcentual del avance del proyecto
+* Indicadores de desviación
+* Visualización de retrasos
+* Seguimiento de rendimiento operativo
+* KPIs ejecutivos para control de obra
+
+## Dashboard Climático
+
+* Seguimiento de horas de lluvia
+* Identificación de días no trabajados por clima
+* Clasificación de afectaciones:
+
+  * Sin afectación
+  * Afectación parcial
+  * Afectación total
+* Calendario climático tipo heatmap
+* Análisis de retrasos externos asociados al clima
+* Indicadores KPI ejecutivos
+* Visualización de tendencias climáticas
+* Diseño optimizado para visualización ejecutiva
+
+---
+
+# Tecnologías Utilizadas
+
+* Power BI
+* DAX
+* Power Query
+* Excel
+
+---
+
+# Capturas de los Dashboards
+
+## Dashboard de Avance de Obra
+
+Agregar aquí screenshots del dashboard de avance.
+
+---
+
+## Dashboard Climático
+
+## Dashboard Climático
+
+Agregar aquí screenshots del dashboard.
+
+---
+
+# Estructura del Proyecto
+
+```text
+construction-project-monitoring-dashboard/
+│
+├── dashboard.pbix
+├── data_sample.xlsx
+├── screenshots/
+├── README.md
+```
+
+---
+
+# Objetivo Profesional
+
+Este proyecto forma parte de mi portafolio personal como ingeniero civil interesado en:
+
+* Automatización en construcción
+* Business Intelligence aplicado a obra
+* Reporting ejecutivo
+* Gestión de riesgos climáticos
+* Seguimiento y control de avance de obra
+* Optimización de procesos constructivos
+
+---
+
+# Posibles Mejoras Futuras
+
+* Integración automática con APIs climáticas
+* Alertas meteorológicas automáticas
+* Predicción de afectaciones
+* Dashboard móvil optimizado
+* Integración con programación de obra
+
+---
+
+# Autor
+
+Juan Leal
+Ingeniero Civil
